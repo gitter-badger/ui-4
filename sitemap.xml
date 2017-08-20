@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-checkbox.html</loc>
+    <loc>http://blankapp.org/docs/component-card.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-card.html</loc>
+    <loc>http://blankapp.org/docs/component-checkbox.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -65,6 +65,13 @@
   </url>
   
   <url>
+    <loc>http://blankapp.org/docs/component-radiobutton.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blankapp.org/docs/component-screen.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-radiobutton.html</loc>
+    <loc>http://blankapp.org/docs/component-switch.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -100,21 +107,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-switch.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blankapp.org/docs/component-title.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/docs/contributing.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -128,6 +121,13 @@
   </url>
   
   <url>
+    <loc>http://blankapp.org/docs/contributing.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blankapp.org/docs/index.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
@@ -135,14 +135,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/themes.html</loc>
+    <loc>http://blankapp.org/docs/styleguides.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/styleguides.html</loc>
+    <loc>http://blankapp.org/docs/themes.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-button.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/component-activityindicator.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-activityindicator.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/component-button.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-checkbox.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/component-divider.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-divider.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/component-checkbox.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -240,21 +240,21 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-title.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/zh-cn/docs/contributing.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blankapp.org/zh-cn/docs/component-text.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/component-textinput.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/component-title.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -268,7 +268,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-textinput.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/contributing.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/styleguides.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -283,13 +290,6 @@
   
   <url>
     <loc>http://blankapp.org/zh-cn/docs/themes.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/zh-cn/docs/styleguides.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
