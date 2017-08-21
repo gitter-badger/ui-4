@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blankapp.org/docs/component-view.html</loc>
+    
+    <lastmod>2017-08-21T16:03:45.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/component-view.html</loc>
+    
+    <lastmod>2017-08-21T16:03:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blankapp.org/zh-cn/docs/component-switch.html</loc>
     
     <lastmod>2017-08-21T15:53:22.000Z</lastmod>
@@ -114,21 +128,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/index.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/docs/contributing.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/docs/index.html</loc>
+    <loc>http://blankapp.org/docs/troubleshooting.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -156,14 +156,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/troubleshooting.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/docs/component-badge.html</loc>
+    <loc>http://blankapp.org/zh-cn/index.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -184,7 +177,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-divider.html</loc>
+    <loc>http://blankapp.org/docs/component-subtitle.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -205,6 +198,13 @@
   </url>
   
   <url>
+    <loc>http://blankapp.org/docs/component-badge.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blankapp.org/docs/component-text.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
@@ -212,7 +212,21 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-subtitle.html</loc>
+    <loc>http://blankapp.org/docs/component-title.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/component-screen.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/component-subtitle.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -233,28 +247,21 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-screen.html</loc>
+    <loc>http://blankapp.org/docs/component-divider.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-title.html</loc>
+    <loc>http://blankapp.org/docs/contributing.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-view.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-subtitle.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/component-title.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -268,13 +275,6 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-view.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blankapp.org/zh-cn/docs/styleguides.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
@@ -282,14 +282,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/themes.html</loc>
+    <loc>http://blankapp.org/docs/index.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-title.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/themes.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
