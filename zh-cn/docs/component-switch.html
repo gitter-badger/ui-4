@@ -41,17 +41,17 @@
   <!-- RSS -->
   <link rel="alternate" href="/atom.xml" title="BlankApp UI">
   <!-- Open Graph -->
-  <meta name="description" content="开关控件 示例&amp;lt;Switch checked=&amp;#123;true&amp;#125; /&amp;gt; API属性   名称 描述 类型 可选值 默认值     checked 是否处于选中状态 bool - false    事件   名称 描述     onCheckedChange -">
+  <meta name="description" content="开关控件 示例&amp;lt;Switch /&amp;gt; 状态禁用&amp;lt;Switch disabled /&amp;gt; 选中&amp;lt;Switch checked /&amp;gt; API属性   名称 描述 类型 可选值 默认值     disabled 是否处于禁用状态 bool - false   checked 是否处于选中状态 bool - false    事件   名称 描述     onChecked">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Switch">
 <meta property="og:url" content="http://blankapp.org/zh-cn/docs/component-switch.html">
 <meta property="og:site_name" content="BlankApp UI">
-<meta property="og:description" content="开关控件 示例&amp;lt;Switch checked=&amp;#123;true&amp;#125; /&amp;gt; API属性   名称 描述 类型 可选值 默认值     checked 是否处于选中状态 bool - false    事件   名称 描述     onCheckedChange -">
+<meta property="og:description" content="开关控件 示例&amp;lt;Switch /&amp;gt; 状态禁用&amp;lt;Switch disabled /&amp;gt; 选中&amp;lt;Switch checked /&amp;gt; API属性   名称 描述 类型 可选值 默认值     disabled 是否处于禁用状态 bool - false   checked 是否处于选中状态 bool - false    事件   名称 描述     onChecked">
 <meta property="og:locale" content="zh-cn">
-<meta property="og:updated_time" content="2017-08-21T15:53:22.000Z">
+<meta property="og:updated_time" content="2017-08-23T16:54:21.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Switch">
-<meta name="twitter:description" content="开关控件 示例&amp;lt;Switch checked=&amp;#123;true&amp;#125; /&amp;gt; API属性   名称 描述 类型 可选值 默认值     checked 是否处于选中状态 bool - false    事件   名称 描述     onCheckedChange -">
+<meta name="twitter:description" content="开关控件 示例&amp;lt;Switch /&amp;gt; 状态禁用&amp;lt;Switch disabled /&amp;gt; 选中&amp;lt;Switch checked /&amp;gt; API属性   名称 描述 类型 可选值 默认值     disabled 是否处于禁用状态 bool - false   checked 是否处于选中状态 bool - false    事件   名称 描述     onChecked">
 <meta name="twitter:site" content="lijy91">
   <!-- Google Analytics -->
   
@@ -105,7 +105,9 @@
               </header>
               <div class="article-content" itemprop="articleBody">
                 <p>开关控件</p>
-<h2 id="示例" class="article-heading"><a href="#示例" class="headerlink" title="示例"></a>示例<a class="article-anchor" href="#示例" aria-hidden="true"></a></h2><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;Switch checked=&#123;<span class="literal">true</span>&#125; /&gt;</div></pre></td></tr></table></figure>
+<h2 id="示例" class="article-heading"><a href="#示例" class="headerlink" title="示例"></a>示例<a class="article-anchor" href="#示例" aria-hidden="true"></a></h2><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;Switch /&gt;</div></pre></td></tr></table></figure>
+<h2 id="状态" class="article-heading"><a href="#状态" class="headerlink" title="状态"></a>状态<a class="article-anchor" href="#状态" aria-hidden="true"></a></h2><h3 id="禁用" class="article-heading"><a href="#禁用" class="headerlink" title="禁用"></a>禁用<a class="article-anchor" href="#禁用" aria-hidden="true"></a></h3><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;Switch disabled /&gt;</div></pre></td></tr></table></figure>
+<h3 id="选中" class="article-heading"><a href="#选中" class="headerlink" title="选中"></a>选中<a class="article-anchor" href="#选中" aria-hidden="true"></a></h3><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;Switch checked /&gt;</div></pre></td></tr></table></figure>
 <h2 id="API" class="article-heading"><a href="#API" class="headerlink" title="API"></a>API<a class="article-anchor" href="#API" aria-hidden="true"></a></h2><h3 id="属性" class="article-heading"><a href="#属性" class="headerlink" title="属性"></a>属性<a class="article-anchor" href="#属性" aria-hidden="true"></a></h3><table>
 <thead>
 <tr>
@@ -117,6 +119,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><code>disabled</code></td>
+<td>是否处于禁用状态</td>
+<td>bool</td>
+<td>-</td>
+<td><code>false</code></td>
+</tr>
 <tr>
 <td><code>checked</code></td>
 <td>是否处于选中状态</td>
@@ -143,7 +152,7 @@
 
               </div>
               <footer class="article-footer">
-                <time class="article-footer-updated" datetime="2017-08-21T15:53:22.000Z" itemprop="dateModified">上次更新：2017-08-21</time>
+                <time class="article-footer-updated" datetime="2017-08-23T16:54:21.000Z" itemprop="dateModified">上次更新：2017-08-23</time>
                 <a href="component-subtitle.html" class="article-footer-prev" title="Subtitle"><i class="fa fa-chevron-left"></i><span>上一页</span></a><a href="component-text.html" class="article-footer-next" title="Text"><span>下一页</span><i class="fa fa-chevron-right"></i></a>
               </footer>
               
@@ -152,7 +161,7 @@
           <aside id="article-toc" role="navigation">
             <div id="article-toc-inner">
               <strong class="sidebar-title">目录</strong>
-              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#示例"><span class="toc-text">示例</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#API"><span class="toc-text">API</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#属性"><span class="toc-text">属性</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#事件"><span class="toc-text">事件</span></a></li></ol></li></ol>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#示例"><span class="toc-text">示例</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#状态"><span class="toc-text">状态</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#禁用"><span class="toc-text">禁用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#选中"><span class="toc-text">选中</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#API"><span class="toc-text">API</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#属性"><span class="toc-text">属性</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#事件"><span class="toc-text">事件</span></a></li></ol></li></ol>
               <a href="#" id="article-toc-top">回到顶部</a>
             </div>
           </aside>

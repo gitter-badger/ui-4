@@ -41,17 +41,17 @@
   <!-- RSS -->
   <link rel="alternate" href="/atom.xml" title="BlankApp UI">
   <!-- Open Graph -->
-  <meta name="description" content="超链接按钮 示例&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; /&amp;gt; API属性   名称 描述 类型 可选值 默认值     children - string, element - -   text 显示的文本 string - 空字符串 (‘’)   size 按钮的大小 enum mini, small, medium,">
+  <meta name="description" content="超链接按钮 示例&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; /&amp;gt; 状态禁用&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; disabled /&amp;gt; 加载中&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125;">
 <meta property="og:type" content="website">
 <meta property="og:title" content="HyperlinkButton">
 <meta property="og:url" content="http://blankapp.org/zh-cn/docs/component-hyperlinkbutton.html">
 <meta property="og:site_name" content="BlankApp UI">
-<meta property="og:description" content="超链接按钮 示例&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; /&amp;gt; API属性   名称 描述 类型 可选值 默认值     children - string, element - -   text 显示的文本 string - 空字符串 (‘’)   size 按钮的大小 enum mini, small, medium,">
+<meta property="og:description" content="超链接按钮 示例&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; /&amp;gt; 状态禁用&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; disabled /&amp;gt; 加载中&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125;">
 <meta property="og:locale" content="zh-cn">
-<meta property="og:updated_time" content="2017-08-21T15:51:39.000Z">
+<meta property="og:updated_time" content="2017-08-23T16:54:01.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="HyperlinkButton">
-<meta name="twitter:description" content="超链接按钮 示例&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; /&amp;gt; API属性   名称 描述 类型 可选值 默认值     children - string, element - -   text 显示的文本 string - 空字符串 (‘’)   size 按钮的大小 enum mini, small, medium,">
+<meta name="twitter:description" content="超链接按钮 示例&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; /&amp;gt; 状态禁用&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125; disabled /&amp;gt; 加载中&amp;lt;HyperlinkButton text=&amp;#123;&apos;HyperlinkButton&apos;&amp;#125;">
 <meta name="twitter:site" content="lijy91">
   <!-- Google Analytics -->
   
@@ -106,6 +106,9 @@
               <div class="article-content" itemprop="articleBody">
                 <p>超链接按钮</p>
 <h2 id="示例" class="article-heading"><a href="#示例" class="headerlink" title="示例"></a>示例<a class="article-anchor" href="#示例" aria-hidden="true"></a></h2><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; /&gt;</div></pre></td></tr></table></figure>
+<h2 id="状态" class="article-heading"><a href="#状态" class="headerlink" title="状态"></a>状态<a class="article-anchor" href="#状态" aria-hidden="true"></a></h2><h3 id="禁用" class="article-heading"><a href="#禁用" class="headerlink" title="禁用"></a>禁用<a class="article-anchor" href="#禁用" aria-hidden="true"></a></h3><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; disabled /&gt;</div></pre></td></tr></table></figure>
+<h3 id="加载中" class="article-heading"><a href="#加载中" class="headerlink" title="加载中"></a>加载中<a class="article-anchor" href="#加载中" aria-hidden="true"></a></h3><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; loading /&gt;</div></pre></td></tr></table></figure>
+<h2 id="变化形式" class="article-heading"><a href="#变化形式" class="headerlink" title="变化形式"></a>变化形式<a class="article-anchor" href="#变化形式" aria-hidden="true"></a></h2><h3 id="尺寸" class="article-heading"><a href="#尺寸" class="headerlink" title="尺寸"></a>尺寸<a class="article-anchor" href="#尺寸" aria-hidden="true"></a></h3><figure class="highlight jsx"><table><tr><td class="code"><pre><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; size=&#123;<span class="string">'mini'</span>&#125; /&gt;</div><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; size=&#123;<span class="string">'small'</span>&#125; /&gt;</div><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; size=&#123;<span class="string">'medium'</span>&#125; /&gt;</div><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; size=&#123;<span class="string">'large'</span>&#125; /&gt;</div><div class="line">&lt;HyperlinkButton text=&#123;<span class="string">'HyperlinkButton'</span>&#125; size=&#123;<span class="string">'big'</span>&#125; /&gt;</div></pre></td></tr></table></figure>
 <h2 id="API" class="article-heading"><a href="#API" class="headerlink" title="API"></a>API<a class="article-anchor" href="#API" aria-hidden="true"></a></h2><h3 id="属性" class="article-heading"><a href="#属性" class="headerlink" title="属性"></a>属性<a class="article-anchor" href="#属性" aria-hidden="true"></a></h3><table>
 <thead>
 <tr>
@@ -132,11 +135,11 @@
 <td>空字符串 (‘’)</td>
 </tr>
 <tr>
-<td><code>size</code></td>
-<td>按钮的大小</td>
-<td>enum</td>
-<td><code>mini</code>, <code>small</code>, <code>medium</code>, <code>large</code>, <code>big</code></td>
-<td><code>medium</code></td>
+<td><code>disabled</code></td>
+<td>是否处于禁用状态</td>
+<td>bool</td>
+<td>-</td>
+<td><code>false</code></td>
 </tr>
 <tr>
 <td><code>loading</code></td>
@@ -144,6 +147,13 @@
 <td>bool</td>
 <td>-</td>
 <td><code>false</code></td>
+</tr>
+<tr>
+<td><code>size</code></td>
+<td>按钮的大小</td>
+<td>enum</td>
+<td><code>mini</code>, <br><code>small</code>, <br><code>medium</code>, <br><code>large</code>, <br><code>big</code></td>
+<td><code>medium</code></td>
 </tr>
 </tbody>
 </table>
@@ -164,7 +174,7 @@
 
               </div>
               <footer class="article-footer">
-                <time class="article-footer-updated" datetime="2017-08-21T15:51:39.000Z" itemprop="dateModified">上次更新：2017-08-21</time>
+                <time class="article-footer-updated" datetime="2017-08-23T16:54:01.000Z" itemprop="dateModified">上次更新：2017-08-23</time>
                 <a href="component-divider.html" class="article-footer-prev" title="Divider"><i class="fa fa-chevron-left"></i><span>上一页</span></a><a href="component-radiobutton.html" class="article-footer-next" title="RadioButton"><span>下一页</span><i class="fa fa-chevron-right"></i></a>
               </footer>
               
@@ -173,7 +183,7 @@
           <aside id="article-toc" role="navigation">
             <div id="article-toc-inner">
               <strong class="sidebar-title">目录</strong>
-              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#示例"><span class="toc-text">示例</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#API"><span class="toc-text">API</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#属性"><span class="toc-text">属性</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#事件"><span class="toc-text">事件</span></a></li></ol></li></ol>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#示例"><span class="toc-text">示例</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#状态"><span class="toc-text">状态</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#禁用"><span class="toc-text">禁用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#加载中"><span class="toc-text">加载中</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#变化形式"><span class="toc-text">变化形式</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#尺寸"><span class="toc-text">尺寸</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#API"><span class="toc-text">API</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#属性"><span class="toc-text">属性</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#事件"><span class="toc-text">事件</span></a></li></ol></li></ol>
               <a href="#" id="article-toc-top">回到顶部</a>
             </div>
           </aside>

@@ -840,7 +840,7 @@ a.article-title:hover {
   font-weight: bold;
 }
 .article-content table {
-  max-width: 100%;
+  width: 100%;
   border: 1px solid #e3e3e3;
 }
 .article-content table th {
