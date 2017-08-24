@@ -254,13 +254,6 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/contributing.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blankapp.org/news/2017/08/20/hello-world/</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
@@ -268,7 +261,14 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/themes.html</loc>
+    <loc>http://blankapp.org/docs/contributing.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/docs/troubleshooting.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -289,7 +289,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/troubleshooting.html</loc>
+    <loc>http://blankapp.org/docs/themes.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
