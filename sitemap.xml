@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/component-button.html</loc>
+    <loc>http://blankapp.org/docs/component-button.html</loc>
     
-    <lastmod>2017-08-25T00:45:21.000Z</lastmod>
+    <lastmod>2017-08-25T00:48:47.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/component-button.html</loc>
+    <loc>http://blankapp.org/zh-cn/docs/component-button.html</loc>
     
-    <lastmod>2017-08-25T00:45:14.000Z</lastmod>
+    <lastmod>2017-08-25T00:48:37.000Z</lastmod>
     
   </url>
   
@@ -247,27 +247,6 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/docs/troubleshooting.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/news/2017/08/20/hello-world/</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blankapp.org/index.html</loc>
-    
-    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blankapp.org/zh-cn/index.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
@@ -275,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://blankapp.org/zh-cn/docs/contributing.html</loc>
+    <loc>http://blankapp.org/news/2017/08/20/hello-world/</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
@@ -290,6 +269,27 @@
   
   <url>
     <loc>http://blankapp.org/docs/themes.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/zh-cn/docs/contributing.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/docs/troubleshooting.html</loc>
+    
+    <lastmod>2017-08-20T00:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blankapp.org/index.html</loc>
     
     <lastmod>2017-08-20T00:53:48.000Z</lastmod>
     
